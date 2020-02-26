@@ -89,7 +89,7 @@ The following items should be installed in your system:
 
 1) On the command line
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/ondrahavelka/packager.git
 ```
 2) Inside Eclipse or STS
 ```
